@@ -1,1 +1,1 @@
-# paint-github-d370b
+# next js blog repository
